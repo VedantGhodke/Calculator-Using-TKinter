@@ -28,7 +28,7 @@ def clearpress():
 if __name__ =="__main__":
 	gui = Tk()
 
-	gui.configure(background = "light green")
+	gui.configure(background = "light blue")
 	gui.title("Calculator")
 	gui.geometry("465x225")
 	
