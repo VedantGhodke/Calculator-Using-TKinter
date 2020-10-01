@@ -32,9 +32,9 @@ if __name__ == "__main__":
 	# a GUI window 
 	gui = Tk() 
 
-	gui.configure(background="light green") 
+	gui.configure(background="light blue") 
 
-	gui.title("Simple Calculator") 
+	gui.title("Basic Calculator") 
 
 	gui.geometry("265x125") 
 
